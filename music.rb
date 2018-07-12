@@ -32,6 +32,3 @@ def delete_artist(hash)
     puts "#{library} #{artist} #{song}"
 end
 end
-end
-end
-end
