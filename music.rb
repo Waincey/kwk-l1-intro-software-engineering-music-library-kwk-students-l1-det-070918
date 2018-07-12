@@ -33,3 +33,4 @@ def delete_artist(hash)
 end
 end
 end
+end
