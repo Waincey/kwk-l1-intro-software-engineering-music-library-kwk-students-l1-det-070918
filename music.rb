@@ -31,6 +31,5 @@ def delete_artist(hash)
   hash.each do |library, artist, song|
     puts "#{library} #{artist} #{song}"
 end
-
-
+end
 end
